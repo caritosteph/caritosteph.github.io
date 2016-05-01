@@ -3,7 +3,22 @@
   
     
     <url>
-      <loc>http://culfe.com//2016/welcome-to-jekyll/</loc>
+      <loc>http://culfe.com//2016/javascript-good-parts/</loc>
+      
+        <lastmod>2016-01-08T10:04:23-05:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://culfe.com//2016/hello-world/</loc>
       
         <lastmod>2016-01-08T10:04:23-05:00</lastmod>
       
@@ -21,7 +36,7 @@
     <url>
       <loc>http://culfe.com//categories/</loc>
       
-        <lastmod>2016-04-30T22:24:35-05:00</lastmod>
+        <lastmod>2016-05-01T02:10:53-05:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -36,7 +51,7 @@
     <url>
       <loc>http://culfe.com//</loc>
       
-        <lastmod>2016-04-30T22:24:35-05:00</lastmod>
+        <lastmod>2016-05-01T02:10:53-05:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -51,7 +66,7 @@
     <url>
       <loc>http://culfe.com//js/main.js</loc>
       
-        <lastmod>2016-04-30T22:24:35-05:00</lastmod>
+        <lastmod>2016-05-01T02:10:53-05:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -68,7 +83,7 @@
     <url>
       <loc>http://culfe.com//tags/</loc>
       
-        <lastmod>2016-04-30T22:24:35-05:00</lastmod>
+        <lastmod>2016-05-01T02:10:53-05:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
