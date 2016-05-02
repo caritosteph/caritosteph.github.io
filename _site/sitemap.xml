@@ -3,7 +3,7 @@
   
     
     <url>
-      <loc>http://culfe.com//2016/javascript-good-parts/</loc>
+      <loc>http://caritosteph.github.io//2016/javascript-good-parts/</loc>
       
         <lastmod>2016-01-08T10:04:23-05:00</lastmod>
       
@@ -18,7 +18,7 @@
   
     
     <url>
-      <loc>http://culfe.com//2016/hello-world/</loc>
+      <loc>http://caritosteph.github.io//2016/hello-world/</loc>
       
         <lastmod>2016-01-08T10:04:23-05:00</lastmod>
       
@@ -34,24 +34,9 @@
   
     
     <url>
-      <loc>http://culfe.com//categories/</loc>
+      <loc>http://caritosteph.github.io//categories/</loc>
       
-        <lastmod>2016-05-01T02:10:53-05:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://culfe.com//</loc>
-      
-        <lastmod>2016-05-01T02:10:53-05:00</lastmod>
+        <lastmod>2016-05-01T23:35:57-05:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -64,9 +49,69 @@
   
     
     <url>
-      <loc>http://culfe.com//js/main.js</loc>
+      <loc>http://caritosteph.github.io//blog/</loc>
       
-        <lastmod>2016-05-01T02:10:53-05:00</lastmod>
+        <lastmod>2016-05-01T23:35:57-05:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://caritosteph.github.io//projects/</loc>
+      
+        <lastmod>2016-05-01T23:35:57-05:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://caritosteph.github.io//resume/</loc>
+      
+        <lastmod>2016-05-01T23:35:57-05:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://caritosteph.github.io//</loc>
+      
+        <lastmod>2016-05-01T23:35:57-05:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://caritosteph.github.io//js/main.js</loc>
+      
+        <lastmod>2016-05-01T23:35:57-05:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -81,9 +126,9 @@
   
     
     <url>
-      <loc>http://culfe.com//tags/</loc>
+      <loc>http://caritosteph.github.io//tags/</loc>
       
-        <lastmod>2016-05-01T02:10:53-05:00</lastmod>
+        <lastmod>2016-05-01T23:35:57-05:00</lastmod>
       
       
         <changefreq>monthly</changefreq>

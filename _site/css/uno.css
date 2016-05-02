@@ -1104,7 +1104,7 @@ pre {
 
 .content-wrapper__inner {
 	margin: 0 10%;
-	padding: 50px 0; }
+	padding: 10px 0;}
 
 .footer {
 	display: block;
@@ -1683,3 +1683,18 @@ input[type="tel"] {
 	.btn, .navigation__item a {
 		display: block;
 		margin-bottom: .4em; } }
+
+.embed-container {
+    height: 0;
+    padding-bottom: 97%;
+    overflow: hidden;
+    position: relative;
+}
+			
+.embed-container iframe {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
