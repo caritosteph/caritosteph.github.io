@@ -1200,6 +1200,7 @@ hr {
     font-size: 1.1em;
     letter-spacing: 1px;
     color: #FFF;
+    line-height: 18px;
 }
 .panel-subtitle {
 	font-family: "Roboto Slab", serif;
