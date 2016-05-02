@@ -1104,7 +1104,8 @@ pre {
 
 .content-wrapper__inner {
 	margin: 0 10%;
-	padding: 10px 0;}
+	padding: 10px 0;
+	text-align: justify;}
 
 .footer {
 	display: block;
