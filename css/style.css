@@ -34,10 +34,10 @@ html {
 .mbr-background {
   background-attachment: scroll !important;
 }
-.is-builder .animated {
+/*.is-builder .animated {
   -webkit-animation-name: none !important;
   animation-name: none !important;
-}
+}*/
 .msgbox-1 {
   overflow: hidden;
   padding: 0 20px;
