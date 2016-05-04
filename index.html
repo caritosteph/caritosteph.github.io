@@ -2,23 +2,40 @@
 layout: default
 ---
 
-<div class="main-post-list">
-
-  <ol class="post-list">
-    {% for post in paginator.posts %}
-      <li>
-        <h2 class="post-list__post-title post-title"><a href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}" title="{{ post.title }}">{{ post.title }}</a></h2>
-        <p class="excerpt">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}&hellip;</p>
-        <div class="post-list__meta"><time datetime="{{ post.date | date: "%-d %b %Y" }}" class="post-list__meta--date date">{{ post.date | date: "%-d %b %Y" }}</time> &#8226; <span class="post-meta__tags">on {% for tag in post.tags %}<a href="{{ site.baseurl }}tags/#{{ tag }}">{{ tag }}</a> {% endfor %}</span></div>
-        <hr class="post-list__divider">
-      </li>
-    {% endfor %}
-  </ol>
-
-  <hr class="post-list__divider ">
-
-  {% if paginator.previous_page or paginator.next_page %}
-      {% include pagination.html %}
-  {% endif %}
-
-</div>
+<article class="post-container post-container--single">
+    <header class="post-header">
+        <h3>Projects</h3>
+    </header>
+    <br/>
+    <section class="post">
+        <h5>
+            <i class="icon icon-social-github"></i>&nbsp;&nbsp;<strong><a href="https://github.com/caritosteph/drawing" target="_blank">Drawing</a></strong>
+            - Drawing is an application where users can draw whatever they want.<a href="http://mydraw.meteor.com/" target="_blank"><strong style="color: #651919;">  Demo.</strong> </a>
+        </h5>
+        <h5>
+            <i class="icon icon-social-github"></i>&nbsp;&nbsp;<strong><a href="https://github.com/caritosteph/portfolio-website" target="_blank">Portfolio Website</a></strong>
+            - Portfolio app using meteor.<a href="http://portfolio-website.meteor.com/" target="_blank"><strong style="color: #651919;">  Demo.</strong> </a>
+        </h5>
+        <h5>
+            <i class="icon icon-social-github"></i>&nbsp;&nbsp;<strong><a href="https://github.com/caritosteph/socialWebsite" target="_blank">Social Website</a></strong>
+            - Social Website is an application where users can save their favorites web site.<a href=" http://socialwebsite.meteor.com/" target="_blank"><strong style="color: #651919;">  Demo.</strong> </a>
+        </h5>
+        <h5>
+            <i class="icon icon-social-github"></i>&nbsp;&nbsp;<strong><a href="https://github.com/caritosteph/Minstant" target="_blank">Minstant</a></strong>
+            - Minstant is an application user can choose someone to chat with.<a href="http://mymistant.meteor.com/" target="_blank"><strong style="color: #651919;">  Demo.</strong> </a>
+        </h5>
+        <h5>
+            <i class="icon icon-social-github"></i>&nbsp;&nbsp;<strong><a href="https://github.com/caritosteph/Popular-Movie" target="_blank">Popular Movie</a></strong>
+            - Mobile app to allow users to discover the most popular movies playing.
+        </h5>
+        <h5>
+            <i class="icon icon-social-github"></i>&nbsp;&nbsp;<strong><a href="https://github.com/caritosteph/SSE" target="_blank">SSE</a></strong>
+            - UNMSM Alumni Tracking System using Spark Framework and NuoDB.
+        </h5>
+        <h5>
+            <i class="icon icon-social-github"></i>&nbsp;&nbsp;<strong><a href="https://github.com/caritosteph/Bookstore" target="_blank">UNMSM Bookstore</a></strong>
+            - Online Bookstore for the UNMSM Press using Codeigniter.
+        </h5>
+    </section>
+</article>
+<hr class="post-list__divider "> {% if paginator.previous_page or paginator.next_page %} {% include pagination.html %} {% endif %}
