@@ -90,8 +90,8 @@
     right: 20px;
     line-height: 54px;
     opacity: 1;
-    color: #fff;
-    border: 2px solid #fff;
+    color: #921A1A;
+    border: 2px solid #921A1A;
     text-align: center;
     text-shadow: none;
     z-index: 5;
@@ -101,7 +101,7 @@
 }
 .mbr-gallery .modal .close:hover {
     background: #fff;
-    color: #000;
+    color: #651919;
 }
 
 /* modal back color opacity */
