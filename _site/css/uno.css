@@ -1102,7 +1102,7 @@ pre {
 .content-wrapper {
 	z-index: 800;
 	width: 55%;
-	margin-left: 40%; }
+	margin-left: 43%; }
 
 .content-wrapper__inner {
 	margin: 0 10%;
@@ -1630,11 +1630,13 @@ input[type="tel"] {
 			.panel-cover.panel-cover--collapsed .panel-cover__divider {
 				display: none;
 				margin: 1em auto; }
-
+	.navigation-wrapper.test {
+    	top: 36%!important;
+	}
 	.navigation-wrapper {
 		display: none;
 		position: fixed;
-		top: 42px;
+		top: 75%;
 		right: 0;
 		left: 0;
 		width: 100%;
@@ -1643,7 +1645,6 @@ input[type="tel"] {
 		border-bottom: 1px solid rgba(255, 255, 255, 0.15); }
 		.navigation-wrapper.visible {
 			display: block; }
-
 	.cover-navigation {
 		display: block;
 		position: relative;
