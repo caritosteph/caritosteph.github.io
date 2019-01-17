@@ -9,7 +9,6 @@ layout: default
       </header>
       <section>
         {{ post.content }}
-        <p class="editor-link"><a href="cloudcannon:collections/{{ post.path }}" class="button"><strong>&#9998;</strong> Edit post</a></p>
       </section>
     {% endfor %}
   </section>
@@ -27,11 +26,11 @@ layout: default
           <footer>
             <ul class="actions">
               <li><a href="{{ post.url }}" class="button">Read More</a></li>
-              <li class="editor-link"><a href="cloudcannon:collections/{{ post.path }}" class="button"><strong>&#9998;</strong> Edit post</a></li>
             </ul>
           </footer>
         </article>
       {% endfor %}
     </div>
+    <a href="{{ site.url }}/resume.pdf" title="cv" target="_blank">Click here to see my CV</a>
   </section>
 </div>

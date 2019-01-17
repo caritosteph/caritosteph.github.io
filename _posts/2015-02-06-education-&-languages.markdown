@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Education & Languages
-categories: update
+image: /images/fulls/02.jpg
 ---
 
 <img src="/images/fulls/02.jpg" class="fit image">

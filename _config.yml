@@ -20,7 +20,7 @@ social:
   links:
     - https://github.com/caritosteph/caritosteph.github.io
 
-permalink: pretty
+permalink: /:title
 
 gems:
   - "jekyll-feed"

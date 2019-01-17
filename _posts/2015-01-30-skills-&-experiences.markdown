@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Skills & Experiences
 ---
 <img src="/images/fulls/01.jpg" class="fit image">
 Main area of my expertise is Front-end development, building web and mobile apps using javascript code.
