@@ -6,7 +6,6 @@ layout: default
     {% for post in site.posts limit:1 %}
       <header>
         <h1>{{ post.title }}</h1>
-        <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}{% if post.author %} • {{ post.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
       </header>
       <section>
         {{ post.content }}

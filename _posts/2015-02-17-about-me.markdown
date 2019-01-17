@@ -1,0 +1,8 @@
+---
+layout: post
+---
+Peruvian Software Engineer who actively seeks out learn new technologies. Currently, I am learning about javascript frameworks and functional programming languages. My principal aim is to work as a developer, facing new challenges in a company where I can learn and share with my team developing...
+
+* 2014 - I finished my bachelor degree as Software Engineer.
+* 2015 - I started as a Front-end Engineer at Verizon.
+* 2017 - I moved to Munich, Germany to started working for European Computer Telecoms.
