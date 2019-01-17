@@ -5,9 +5,16 @@ categories: update
 ---
 
 <img src="/images/fulls/02.jpg" class="fit image">
-## Education
-2018  Udacity - React Nano-degree 2018
-2014  National University of San Marcos - Bachelor of Software Engineering 2014
+I studied at National University of San Marcos in Lima, Peru where I got a bachelor degree as a Software Engineer.
 
-## Languages
-English, Spanish, Portuguese.
+### Education
+
+`2018` React Nano-degree - Udacity
+
+`2014` Bachelor of Software Engineering - National University of San Marcos
+
+### Languages
+
+* English
+* Spanish
+* Portuguese
