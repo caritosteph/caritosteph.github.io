@@ -1,8 +1,16 @@
-- name: Facebook
-  link: 'https://www.facebook.com/comfusionllc'
-  social_icon: Facebook
+- name: LinkedIn
+  link: 'https://www.linkedin.com/in/culfe/'
+  social_icon: LinkedIn
   new_window: true
-- name: RSS
-  link: '/feed.xml'
-  social_icon: RSS
+- name: Github
+  link: 'https://github.com/caritosteph'
+  social_icon: Github
+  new_window: true
+- name: Twitter
+  link: 'https://twitter.com/CarolynUlfe'
+  social_icon: Twitter
+  new_window: true
+- name: Instagram
+  link: 'https://www.instagram.com/carolynulfe/'
+  social_icon: Instagram
   new_window: true
