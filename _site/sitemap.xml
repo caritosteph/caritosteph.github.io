@@ -1,172 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-    
-    <url>
-      <loc>http://caritosteph.github.io//2016/reactjs/</loc>
-      
-        <lastmod>2016-02-08T16:04:23+01:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.5</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://caritosteph.github.io//2016/javascript-good-parts/</loc>
-      
-        <lastmod>2016-01-08T16:04:23+01:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.5</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://caritosteph.github.io//2016/hello-world/</loc>
-      
-        <lastmod>2016-01-08T16:04:23+01:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.5</priority>
-      
-    </url>
-    
-  
-  
-    
-    <url>
-      <loc>http://caritosteph.github.io//categories/</loc>
-      
-        <lastmod>2018-06-10T16:43:43+02:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://caritosteph.github.io//drawings/</loc>
-      
-        <lastmod>2018-06-10T16:43:43+02:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://caritosteph.github.io//projects/</loc>
-      
-        <lastmod>2018-06-10T16:43:43+02:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://caritosteph.github.io//resume/</loc>
-      
-        <lastmod>2018-06-10T16:43:43+02:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://caritosteph.github.io//blog/</loc>
-      
-        <lastmod>2018-06-10T16:43:43+02:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://caritosteph.github.io//</loc>
-      
-        <lastmod>2018-06-10T16:43:43+02:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://caritosteph.github.io//js/main.js</loc>
-      
-        <lastmod>2018-06-10T16:43:43+02:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-  
-    
-    <url>
-      <loc>http://caritosteph.github.io//tags/</loc>
-      
-        <lastmod>2018-06-10T16:43:43+02:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/2015/01/30/Lorem/</loc>
+<lastmod>2015-01-30T00:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/update/2015/02/06/welcome-to-jekyll/</loc>
+<lastmod>2015-02-06T15:37:44+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/2015/02/17/curabitur/</loc>
+<lastmod>2015-02-17T00:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
 </urlset>
