@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-01-17T23:36:34+01:00</updated><id>http://localhost:4000/</id><title>Carolyn Ulfe</title><subtitle>Carolyn Ulfe, Software Engineer.
-</subtitle><author><name>Carolyn Ulfe</name><email>carolyn.ulfe@gmail.com</email></author><entry><title>About Me</title><link href="http://localhost:4000/about-me" rel="alternate" type="text/html" title="About Me" /><published>2015-02-17T00:00:00+01:00</published><updated>2015-02-17T00:00:00+01:00</updated><id>http://localhost:4000/about-me</id><content type="html" xml:base="http://localhost:4000/about-me">&lt;p&gt;Peruvian Software Engineer who actively seeks out learn new technologies.&lt;br /&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-01-17T23:56:16+01:00</updated><id>http://localhost:4000/</id><title>Carolyn Ulfe</title><subtitle>Carolyn Ulfe, Software Engineer.
+</subtitle><author><name>Carolyn Ulfe</name><email>carolyn.ulfe@gmail.com</email></author><entry><title>About Me</title><link href="http://localhost:4000/about-me" rel="alternate" type="text/html" title="About Me" /><published>2019-01-17T00:00:00+01:00</published><updated>2019-01-17T00:00:00+01:00</updated><id>http://localhost:4000/about-me</id><content type="html" xml:base="http://localhost:4000/about-me">&lt;p&gt;Peruvian Software Engineer who actively seeks out learn new technologies.&lt;br /&gt;
 My principal aim is to work as a developer, facing new challenges in a company where I can learn and share with my team developing apps using the latest technologies and best practices.&lt;/p&gt;
 
 &lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;2014&lt;/code&gt; I finished my bachelor degree as Software Engineer.&lt;/p&gt;
@@ -7,8 +7,7 @@ My principal aim is to work as a developer, facing new challenges in a company w
 &lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;2015&lt;/code&gt; I started as a Front-end Engineer at Verizon.&lt;/p&gt;
 
 &lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;2017&lt;/code&gt; I moved to Munich, Germany to started working for European Computer Telecoms.&lt;/p&gt;</content><author><name>Carolyn Ulfe</name><email>carolyn.ulfe@gmail.com</email></author><summary>Peruvian Software Engineer who actively seeks out learn new technologies.
-My principal aim is to work as a developer, facing new challenges in a company where I can learn and share with my team developing apps using the latest technologies and best practices.</summary></entry><entry><title>Education &amp;amp; Languages</title><link href="http://localhost:4000/education-&-languages" rel="alternate" type="text/html" title="Education &amp; Languages" /><published>2015-02-06T00:00:00+01:00</published><updated>2015-02-06T00:00:00+01:00</updated><id>http://localhost:4000/education-&amp;-languages</id><content type="html" xml:base="http://localhost:4000/education-&amp;-languages">&lt;p&gt;&lt;img src=&quot;/images/fulls/02.jpg&quot; class=&quot;fit image&quot; /&gt;
-I studied at National University of San Marcos in Lima, Peru where I got a bachelor degree as a Software Engineer.&lt;/p&gt;
+My principal aim is to work as a developer, facing new challenges in a company where I can learn and share with my team developing apps using the latest technologies and best practices.</summary></entry><entry><title>Education &amp;amp; Languages</title><link href="http://localhost:4000/education-&-languages" rel="alternate" type="text/html" title="Education &amp; Languages" /><published>2019-01-16T00:00:00+01:00</published><updated>2019-01-16T00:00:00+01:00</updated><id>http://localhost:4000/education-&amp;-languages</id><content type="html" xml:base="http://localhost:4000/education-&amp;-languages">&lt;p&gt;I studied at National University of San Marcos in Lima, Peru where I got a bachelor degree as a Software Engineer.&lt;/p&gt;
 
 &lt;h2 id=&quot;education&quot;&gt;Education&lt;/h2&gt;
 
@@ -19,27 +18,20 @@ I studied at National University of San Marcos in Lima, Peru where I got a bache
 &lt;h2 id=&quot;languages&quot;&gt;Languages&lt;/h2&gt;
 &lt;p&gt;English&lt;br /&gt;
 Spanish&lt;br /&gt;
-Portuguese&lt;/p&gt;</content><author><name>Carolyn Ulfe</name><email>carolyn.ulfe@gmail.com</email></author><summary>I studied at National University of San Marcos in Lima, Peru where I got a bachelor degree as a Software Engineer.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/fulls/02.jpg" /></entry><entry><title>Skills &amp;amp; Experiences</title><link href="http://localhost:4000/skills-&-experiences" rel="alternate" type="text/html" title="Skills &amp; Experiences" /><published>2015-01-30T00:00:00+01:00</published><updated>2015-01-30T00:00:00+01:00</updated><id>http://localhost:4000/skills-&amp;-experiences</id><content type="html" xml:base="http://localhost:4000/skills-&amp;-experiences">&lt;p&gt;&lt;img src=&quot;/images/fulls/01.jpg&quot; class=&quot;fit image&quot; /&gt;
-Main area of my expertise is Front-end development, building web and mobile apps using javascript code.&lt;/p&gt;
+Portuguese&lt;/p&gt;</content><author><name>Carolyn Ulfe</name><email>carolyn.ulfe@gmail.com</email></author><summary>I studied at National University of San Marcos in Lima, Peru where I got a bachelor degree as a Software Engineer.</summary></entry><entry><title>Skills &amp;amp; Experiences</title><link href="http://localhost:4000/skills-&-experiences" rel="alternate" type="text/html" title="Skills &amp; Experiences" /><published>2019-01-15T00:00:00+01:00</published><updated>2019-01-15T00:00:00+01:00</updated><id>http://localhost:4000/skills-&amp;-experiences</id><content type="html" xml:base="http://localhost:4000/skills-&amp;-experiences">&lt;p&gt;Main area of my expertise is Front-end development, building web and mobile apps using javascript code.&lt;/p&gt;
 
 &lt;h2 id=&quot;technologies&quot;&gt;Technologies&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Languages&lt;/strong&gt;&lt;br /&gt;
-Javascript, ES6.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Languages:&lt;/strong&gt; Javascript, ES6.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;JS library&lt;/strong&gt;&lt;br /&gt;
-ReactJS, Redux.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;JS library:&lt;/strong&gt; ReactJS, Redux.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Frameworks&lt;/strong&gt;    &lt;br /&gt;
-React Native, AngularJS, ExtJS, Meteor JS, Jquery.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Frameworks:&lt;/strong&gt; React Native, AngularJS, ExtJS, Meteor JS, Jquery.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;UI Frameworks&lt;/strong&gt;&lt;br /&gt;
-Material UI, Angular-Material, Bootstrap, JqueryUI.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;UI Frameworks:&lt;/strong&gt; Material UI, Angular-Material, Bootstrap, JqueryUI.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Testing&lt;/strong&gt;  &lt;br /&gt;
-Jasmine.js, Mocha, Enzyme, Jest, Chai.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Testing:&lt;/strong&gt; Jasmine.js, Mocha, Enzyme, Jest, Chai.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;More Tools&lt;/strong&gt;&lt;br /&gt;
-Webpack, Grunt, Gulp, BrowserSync.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;More Tools:&lt;/strong&gt; Webpack, Grunt, Gulp, BrowserSync.&lt;/p&gt;
 
 &lt;h2 id=&quot;work-history&quot;&gt;Work History&lt;/h2&gt;
 

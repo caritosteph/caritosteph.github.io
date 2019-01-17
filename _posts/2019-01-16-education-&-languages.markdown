@@ -1,10 +1,9 @@
 ---
 layout: post
 title: Education & Languages
-image: /images/fulls/02.jpg
+img: /images/fulls/02.jpg
 ---
 
-<img src="/images/fulls/02.jpg" class="fit image">
 I studied at National University of San Marcos in Lima, Peru where I got a bachelor degree as a Software Engineer.
 
 ## Education
