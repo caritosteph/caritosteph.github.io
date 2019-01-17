@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-01-17T21:58:20+01:00</updated><id>http://localhost:4000/</id><title>Carolyn Ulfe</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-01-17T22:11:25+01:00</updated><id>http://localhost:4000/</id><title>Carolyn Ulfe</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </subtitle><author><name>Carolyn Ulfe</name><email>carolyn.ulfe@gmail.com</email></author><entry><title>About Me</title><link href="http://localhost:4000/2015/02/17/about-me/" rel="alternate" type="text/html" title="About Me" /><published>2015-02-17T00:00:00+01:00</published><updated>2015-02-17T00:00:00+01:00</updated><id>http://localhost:4000/2015/02/17/about-me</id><content type="html" xml:base="http://localhost:4000/2015/02/17/about-me/">&lt;p&gt;Peruvian Software Engineer who actively seeks out learn new technologies. Currently, I am learning about javascript frameworks and functional programming languages. My principal aim is to work as a developer, facing new challenges in a company where I can learn and share with my team developing…&lt;/p&gt;
 
 &lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;2014&lt;/code&gt; I finished my bachelor degree as Software Engineer.&lt;/p&gt;
@@ -8,19 +8,16 @@
 &lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;2017&lt;/code&gt; I moved to Munich, Germany to started working for European Computer Telecoms.&lt;/p&gt;</content><author><name>Carolyn Ulfe</name><email>carolyn.ulfe@gmail.com</email></author><summary>Peruvian Software Engineer who actively seeks out learn new technologies. Currently, I am learning about javascript frameworks and functional programming languages. My principal aim is to work as a developer, facing new challenges in a company where I can learn and share with my team developing…</summary></entry><entry><title>Education &amp;amp; Languages</title><link href="http://localhost:4000/update/2015/02/06/education-&-languages/" rel="alternate" type="text/html" title="Education &amp; Languages" /><published>2015-02-06T00:00:00+01:00</published><updated>2015-02-06T00:00:00+01:00</updated><id>http://localhost:4000/update/2015/02/06/education-&amp;-languages</id><content type="html" xml:base="http://localhost:4000/update/2015/02/06/education-&amp;-languages/">&lt;p&gt;&lt;img src=&quot;/images/fulls/02.jpg&quot; class=&quot;fit image&quot; /&gt;
 I studied at National University of San Marcos in Lima, Peru where I got a bachelor degree as a Software Engineer.&lt;/p&gt;
 
-&lt;h3 id=&quot;education&quot;&gt;Education&lt;/h3&gt;
+&lt;h2 id=&quot;education&quot;&gt;Education&lt;/h2&gt;
 
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;2018&lt;/code&gt; React Nano-degree - Udacity&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;2018&lt;/code&gt; React Nano-degree - &lt;strong&gt;Udacity&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;2014&lt;/code&gt; Bachelor of Software Engineering - National University of San Marcos&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;2014&lt;/code&gt; Bachelor of Software Engineering - &lt;strong&gt;National University of San Marcos&lt;/strong&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;languages&quot;&gt;Languages&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;English&lt;/li&gt;
-  &lt;li&gt;Spanish&lt;/li&gt;
-  &lt;li&gt;Portuguese&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Carolyn Ulfe</name><email>carolyn.ulfe@gmail.com</email></author><summary>I studied at National University of San Marcos in Lima, Peru where I got a bachelor degree as a Software Engineer.</summary></entry><entry><title>Skills &amp;amp; Experiences</title><link href="http://localhost:4000/2015/01/30/skills-&-experiences/" rel="alternate" type="text/html" title="Skills &amp; Experiences" /><published>2015-01-30T00:00:00+01:00</published><updated>2015-01-30T00:00:00+01:00</updated><id>http://localhost:4000/2015/01/30/skills-&amp;-experiences</id><content type="html" xml:base="http://localhost:4000/2015/01/30/skills-&amp;-experiences/">&lt;p&gt;&lt;img src=&quot;/images/fulls/01.jpg&quot; class=&quot;fit image&quot; /&gt;
+&lt;h2 id=&quot;languages&quot;&gt;Languages&lt;/h2&gt;
+&lt;p&gt;English&lt;br /&gt;
+Spanish&lt;br /&gt;
+Portuguese&lt;/p&gt;</content><author><name>Carolyn Ulfe</name><email>carolyn.ulfe@gmail.com</email></author><summary>I studied at National University of San Marcos in Lima, Peru where I got a bachelor degree as a Software Engineer.</summary></entry><entry><title>Skills &amp;amp; Experiences</title><link href="http://localhost:4000/2015/01/30/skills-&-experiences/" rel="alternate" type="text/html" title="Skills &amp; Experiences" /><published>2015-01-30T00:00:00+01:00</published><updated>2015-01-30T00:00:00+01:00</updated><id>http://localhost:4000/2015/01/30/skills-&amp;-experiences</id><content type="html" xml:base="http://localhost:4000/2015/01/30/skills-&amp;-experiences/">&lt;p&gt;&lt;img src=&quot;/images/fulls/01.jpg&quot; class=&quot;fit image&quot; /&gt;
 Main area of my expertise is Front-end development, building web and mobile apps using javascript code.&lt;/p&gt;
 
 &lt;h2 id=&quot;technologies&quot;&gt;Technologies&lt;/h2&gt;
