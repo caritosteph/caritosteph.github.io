@@ -1620,8 +1620,7 @@
 	}
 
 	.noline {
-		border-bottom: solid 1px transparent!important;
-		margin-bottom: 0!important;
+		border-bottom: none;
 	}
 
 	h3 {
