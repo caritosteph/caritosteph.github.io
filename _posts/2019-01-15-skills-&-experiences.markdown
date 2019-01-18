@@ -22,18 +22,18 @@ Main area of my expertise is Front-end development, building web and mobile apps
 
 `Sep 2017 - Current`
 
-Software Engineer Frontend  
+**Software Engineer Frontend**  
 European Computer Telecom AG  
 Munich, Germany  
 
 `Dec 2016 - Jul 2017`
 
-Software Engineer II  
+**Software Engineer II**  
 Verizon  
 Lima, Peru  
 
 `Jan 2015 - Nov 2016`
 
-Software Engineer I  
+**Software Engineer I**  
 Verizon  
 Lima, Peru  
