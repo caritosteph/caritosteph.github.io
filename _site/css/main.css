@@ -1619,9 +1619,7 @@
 		margin-bottom: 25px;
 	}
 
-	.noline {
-		border-bottom: none;
-	}
+
 
 	h3 {
 		font-size: 1.25em;
@@ -3172,4 +3170,7 @@
  	}
 	.test {
 		width: 10em!important;
+	}
+	.noline {
+		border-bottom: none;
 	}
