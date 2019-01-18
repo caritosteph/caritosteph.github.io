@@ -1615,6 +1615,8 @@
 	h2 {
 		font-size: 1.5em;
 		line-height: 1.5em;
+		border-bottom: solid 2px #efefef;
+    		margin-bottom: 25px;
 	}
 
 	h3 {
