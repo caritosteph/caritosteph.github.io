@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-01-18T00:28:51+01:00</updated><id>http://localhost:4000/</id><title>Carolyn Ulfe</title><subtitle>Carolyn Ulfe, Software Engineer.
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-01-18T23:46:18+01:00</updated><id>http://localhost:4000/</id><title>Carolyn Ulfe</title><subtitle>Carolyn Ulfe, Software Engineer.
 </subtitle><author><name>Carolyn Ulfe</name><email>carolyn.ulfe@gmail.com</email></author><entry><title>About Me</title><link href="http://localhost:4000/about-me" rel="alternate" type="text/html" title="About Me" /><published>2019-01-17T00:00:00+01:00</published><updated>2019-01-17T00:00:00+01:00</updated><id>http://localhost:4000/about-me</id><content type="html" xml:base="http://localhost:4000/about-me">&lt;p&gt;Peruvian Software Engineer who actively seeks out learn new technologies.&lt;br /&gt;
 My principal aim is to work as a developer, facing new challenges in a company where I can learn and share with my team developing apps using the latest technologies and best practices.&lt;/p&gt;
 
@@ -37,18 +37,18 @@ Portuguese&lt;/p&gt;</content><author><name>Carolyn Ulfe</name><email>carolyn.ul
 
 &lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Sep 2017 - Current&lt;/code&gt;&lt;/p&gt;
 
-&lt;p&gt;Software Engineer Frontend&lt;br /&gt;
+&lt;p&gt;&lt;strong&gt;Software Engineer Frontend&lt;/strong&gt;&lt;br /&gt;
 European Computer Telecom AG&lt;br /&gt;
 Munich, Germany&lt;/p&gt;
 
 &lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Dec 2016 - Jul 2017&lt;/code&gt;&lt;/p&gt;
 
-&lt;p&gt;Software Engineer II&lt;br /&gt;
+&lt;p&gt;&lt;strong&gt;Software Engineer II&lt;/strong&gt;&lt;br /&gt;
 Verizon&lt;br /&gt;
 Lima, Peru&lt;/p&gt;
 
 &lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Jan 2015 - Nov 2016&lt;/code&gt;&lt;/p&gt;
 
-&lt;p&gt;Software Engineer I&lt;br /&gt;
+&lt;p&gt;&lt;strong&gt;Software Engineer I&lt;/strong&gt;&lt;br /&gt;
 Verizon&lt;br /&gt;
 Lima, Peru&lt;/p&gt;</content><author><name>Carolyn Ulfe</name><email>carolyn.ulfe@gmail.com</email></author><summary>Main area of my expertise is Front-end development, building web and mobile apps using javascript code.</summary></entry></feed>
