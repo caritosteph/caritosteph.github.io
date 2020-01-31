@@ -1,6 +1,7 @@
 ---
 layout: post
 ---
+
 Peruvian Software Engineer who actively seeks out learn new technologies.  
 My principal aim is to work as a developer, facing new challenges in a company where I can learn and share with my team developing apps using the latest technologies and best practices.
 
@@ -8,4 +9,6 @@ My principal aim is to work as a developer, facing new challenges in a company w
 
 `2015` I started as a Front-end Engineer at Verizon.
 
-`2017` I moved to Munich, Germany to started working for European Computer Telecoms.
+`2017` I moved to Munich, Germany to started working for [European Computer Telecoms](https://www.ect-telecoms.com/).
+
+`2019` I started working at [ThoughtWorks](https://www.thoughtworks.com/).
