@@ -5,10 +5,10 @@ layout: post
 Peruvian Software Engineer who actively seeks out learn new technologies.  
 My principal aim is to work as a developer, facing new challenges in a company where I can learn and share with my team developing apps using the latest technologies and best practices.
 
-`2014` I finished my bachelor degree as Software Engineer.
+`2014` Finished my bachelor degree as Software Engineer.
 
-`2015` I started as a Front-end Engineer at Verizon.
+`2015` Started working as a Software Engineer at Verizon.
 
-`2017` I moved to Munich, Germany to started working for [European Computer Telecoms](https://www.ect-telecoms.com/).
+`2017` I moved to Munich, Germany to start working for [European Computer Telecoms](https://www.ect-telecoms.com/).
 
-`2019` I started working at [ThoughtWorks](https://www.thoughtworks.com/).
+`2019` Started working as Consultant Engineer at [ThoughtWorks](https://www.thoughtworks.com/).
