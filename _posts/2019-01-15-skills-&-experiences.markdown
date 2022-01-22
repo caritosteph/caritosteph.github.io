@@ -18,13 +18,19 @@ Main area of my expertise is Front-end development, building web and mobile apps
 
 **Testing:** React Testing Library, Jest, TestCafe, pact-foundation, Enzyme, Jasmine.js, Mocha.
 
-**More Tools:** Git, Webpack, Grunt, Gulp, BrowserSync.
+**More Tools:** Apollo client, GraphQL, Git, Webpack, Grunt, Gulp, BrowserSync.
 
 ## Work History
 
-`Sep 2019 - Current`
+`Sep 2021 - Current`
 
 **Software Engineer**  
+Zendesk
+Dublin, Ireland
+
+`Sep 2019 - Aug 2020`
+
+**Senior Software Engineer**  
 ThoughtWorks
 Munich, Germany
 
