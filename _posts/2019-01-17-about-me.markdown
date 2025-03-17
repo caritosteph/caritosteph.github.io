@@ -2,8 +2,14 @@
 layout: post
 ---
 
-Peruvian Software Engineer who actively seeks out learn new technologies.  
-My principal aim is to work as a developer, facing new challenges in a company where I can learn and share with my team developing apps using the latest technologies and best practices.
+Software Engineer from Peru, currently living on the Emerald Isle.
+
+Frontend Expert, always learning everything related to software development (e.g., SSR, system design, functional programming, and more).
+My main goal is to work as a developer, tackling new challenges in a company where I can learn and collaborate with my team to develop apps using the latest technologies and best practices.
+
+💻 I love exploring new technologies.  
+🧐 Interested in full stack.  
+📚 Learning: NextJS, Cloud.
 
 `2014` Finished my bachelor degree as Software Engineer.
 

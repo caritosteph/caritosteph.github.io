@@ -6,25 +6,19 @@ img: /images/fulls/01.jpg
 
 Main area of my expertise is Front-end development, building web and mobile apps using javascript code.
 
-## Technologies
+### Tech Skills
+<p align="center">
+  <a href="https://skillicons.dev" style="text-decoration: none; transition: none;">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,redux,ts,js,apollo,styledcomponents,tailwind,graphql,jest,cypress,prisma,d3,angular,vercel,git,html,css,pnpm,materialui,sass,bootstrap,webpack,sentry,nodejs,docker,mongodb,rails,kotlin,figma" style="transition: none;" />
+  </a>
+</p>
 
-**Languages:** ES6, Typescript.
-
-**JS library:** ReactJS, react-hooks, Redux, redux-saga, redux-beacon.
-
-**Frameworks:** React Native, AngularJS, ExtJS, Meteor JS, Jquery.
-
-**UI Frameworks:** Material UI, Angular-Material, Bootstrap, JqueryUI.
-
-**Testing:** React Testing Library, Jest, TestCafe, pact-foundation, Enzyme, Jasmine.js, Mocha.
-
-**More Tools:** Apollo client, GraphQL, Git, Webpack, Grunt, Gulp, BrowserSync.
 
 ## Work History
 
 `Sep 2021 - Current`
 
-**Software Engineer**  
+**Senior Software Engineer**  
 Zendesk
 Dublin, Ireland
 

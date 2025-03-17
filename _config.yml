@@ -1,6 +1,6 @@
 locale: "en-US"
 title: Carolyn Ulfe # Title of your site
-url: "http://carolynulfe.com" # the base hostname & protocol for your site
+url: "http://carolyn-ulfe.com" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
 google_analytics_key: "UA-132741104-1"
 

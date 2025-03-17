@@ -12,7 +12,9 @@ I studied at National University of San Marcos in Lima, Peru where I got a bache
 
 `2014` Bachelor of Software Engineering - **National University of San Marcos**
 
-## Languages
-English  
-Spanish  
-Portuguese  
+## Languages I Speak  
+🇪🇸 Spanish  
+🇺🇸 English  
+🇧🇷 Portuguese  
+🇩🇪 German  
+🇫🇷 Learning French  
